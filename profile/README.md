@@ -1,12 +1,11 @@
-## Hi there 👋
+# Welcome to Sterilyn 👋
 
-<!--
+Welcome to the official GitHub organization of **Sterilyn**.
 
-**Here are some ideas to get you started:**
+This is where we build, maintain, and collaborate on the technology that supports our digital products and operations.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're passionate about creating practical solutions, improving the way we work, and continuously learning along the way.
+
+Thanks for visiting our GitHub. We're glad to have you here.
+
+🌐 [sterilyn.com](https://sterilyn.com)
